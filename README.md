@@ -110,7 +110,7 @@ Average MSE from K-Fold Validation: 0.0123</code></pre>
 
 <h2>Contact</h2>
 
-<p>For any questions or further information, please contact <strong>[Your Name]</strong> at <strong>[your email address]</strong>.</p>
+<p>For any questions or further information, please contact <strong> Mudassar Rehman</strong> at <strong>mudassar.rehman687@gmail.com</strong>.</p>
 
 </body>
 </html>
